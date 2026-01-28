@@ -52,32 +52,6 @@ Le projet suit une architecture **MERN** classique :
 - **Server** : API Node.js / Express qui gère la logique métier et l’accès aux données
 - **Database** : MongoDB pour le stockage persistant des données
 
-## Structure du projet
-
-BLOOD_DONATION_MERN/
-├── Client/
-│ ├── public/
-│ ├── src/
-│ ├── .env
-│ ├── .gitignore
-│ ├── package-lock.json
-│ ├── package.json
-│ └── README.md
-│
-└── server/
-├── config/
-├── controllers/
-├── middleware/
-├── models/
-├── routers/
-├── upload/
-├── validation/
-├── .gitignore
-├── package-lock.json
-├── package.json
-├── passportConfig.js
-└── server.js
-
 
 ##  Installation et exécution du projet
 
