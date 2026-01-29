@@ -103,7 +103,7 @@ function AnnonceList() {
     <div className="full margin_bottom_30" style={{backgroundColor:"#ED7368"}}>
       <div className="full graph_head">
         <div className="heading1 margin_0">
-          <h2>Avis  bébnéficiaire</h2>
+          <h2>Avis  bénéficiaire</h2>
         </div>
       </div>
       <div className="full graph_revenue">
